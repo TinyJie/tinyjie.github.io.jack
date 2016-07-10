@@ -6,7 +6,7 @@ description: "Jack's blog,use Jekyll and github pages."
 keywords: "Jack,Jalpc,blog,Jekyll,github,gh-pages"
 
 baseurl: "/"
-url: "http://tinyjie.github.io"
+url: "https://tinyjie.github.io/"
 # url: "http://127.0.0.1:4000"
 
 # author
